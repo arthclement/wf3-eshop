@@ -17,7 +17,9 @@
     <main>
         <section id="articles">
             <div class="article">
-                
+                <img src="./img/debian-logo.png" alt="">
+                <p>Lorem ipsum</p>
+                <a href="./php/article.php">See details</a>
             </div>
         </section>
     </main>
