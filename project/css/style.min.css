@@ -1,2 +1,2 @@
-form{padding:15px;background-color:green}
+form{background-color:green;display:flex;flex-direction:column;font-size:2rem;justify-content:space-between;margin:auto;padding:15px;text-align:center;width:40vw}form input{font-size:2rem}form button{font-size:2rem}
 /*# sourceMappingURL=style.min.css.map */
