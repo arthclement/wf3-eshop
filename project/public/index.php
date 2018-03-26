@@ -13,19 +13,19 @@
     <header>
         <ul>
             <li>
-                <a href="./login.html">Login</a>
+                <a href="../src/html/login.html">Login</a>
             </li>
             <li>
-                <a href="./register.html">Register</a>
+                <a href="../src/html/register.html">Register</a>
             </li>
         </ul>
     </header>
     <main>
         <section id="articles">
             <div class="article">
-                <img src="./img/debian-logo.png" alt="">
+                <img src="../src/img/debian-logo.png" alt="">
                 <p>Lorem ipsum</p>
-                <a href="./php/article.php">See details</a>
+                <a href="../src/php/article.php">See details</a>
             </div>
         </section>
     </main>
