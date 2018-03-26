@@ -2,9 +2,9 @@ CREATE SCHEMA `eshop` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin ;
 
 CREATE TABLE `eshop`.`user` (
   `iduser` INT NOT NULL,
-  `username` VARCHAR(45) NULL,
+  `username` VARCHAR(255) NULL,
   `password` VARCHAR(255) NULL,
-  `userFullName` VARCHAR(45) NULL,
+  `userFullName` VARCHAR(255) NULL,
   PRIMARY KEY (`iduser`)
 )
 ENGINE = InnoDB
