@@ -1,5 +1,7 @@
 CREATE SCHEMA `eshop` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin ;
 
+USE `eshop`;
+
 CREATE TABLE `eshop`.`user` (
   `iduser` INT NOT NULL,
   `username` VARCHAR(255) NULL,
